@@ -1,10 +1,16 @@
 import json
-from langchain_google_genai import ChatGoogleGenerativeAI
+import os
+from langchain_openai import ChatOpenAI
 from langchain_core.prompts import PromptTemplate
 from typing import Dict, Any
 
 def generate_plan(analysis_data: Dict[str, Any]) -> Dict[str, Any]:
-    llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0.4)
+    llm = ChatOpenAI(
+        api_key=os.getenv("GROQ_API_KEY"), 
+    base_url="https://api.groq.com/openai/v1", 
+    model="llama-3.3-70b-versatile", 
+        temperature=0.4
+    )
     
     prompt = PromptTemplate.from_template("""
 You are a senior Instagram content strategist. You have been given a performance analysis of a creator's account.

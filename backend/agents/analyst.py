@@ -1,13 +1,20 @@
 import json
-from langchain_google_genai import ChatGoogleGenerativeAI
+import os
+from langchain_openai import ChatOpenAI
 from langchain_core.prompts import PromptTemplate
 from typing import List, Dict, Any
 
 def analyze_performance(reels_data: List[Dict[str, Any]]) -> Dict[str, Any]:
-    llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0.2)
+    llm = ChatOpenAI(
+      api_key=os.getenv("GROQ_API_KEY"),
+      base_url="https://api.groq.com/openai/v1",
+      model="llama-3.3-70b-versatile",
+      temperature=0.2
+    )
     
     prompt = PromptTemplate.from_template("""
-You are a content performance analyst. You have been given data about an Instagram creator's last 20 Reels with metrics.
+You are a content performance analyst. You have been given data about an Instagram creator's last 10 Reels with metrics.
+The creator's bio is: "i do speaking, voice acting and accents. acc based in pakistan"
 
 INPUT DATA:
 {reels_data}
@@ -44,13 +51,13 @@ Return this exact JSON schema:
   "performance_labels": [
     {{"id": "string", "label": "TOP_PERFORMER|AVERAGE|UNDERPERFORMER", "plays": 0}}
   ],
-  "top_patterns": {
+  "top_patterns": {{
     "avg_caption_length": "short|medium|long",
     "hashtag_count_range": "string e.g. 5-10",
     "common_keywords": ["string"],
     "best_posting_time": "string e.g. Tuesday 7PM",
     "tone": "string"
-  },
+  }},
   "underperformer_diagnoses": [
     {{"id": "string", "reason": "string", "improvement": "one sentence specific fix"}}
   ],
