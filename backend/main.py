@@ -8,6 +8,7 @@ from agents.collector import fetch_reels_data
 from agents.analyst import analyze_performance
 from agents.planner import generate_plan
 
+
 load_dotenv()
 
 app = FastAPI(title="Instalytics API")
@@ -25,7 +26,15 @@ class AnalyzeRequest(BaseModel):
 
 @app.post("/analyze")
 async def analyze_account(request: AnalyzeRequest):
+    import json
     try:
+        if request.access_token.lower() in ["dummy", "demo", "test"] or os.getenv("DEMO_MODE", "False").lower() == "true":
+            print("Running in DEMO MODE (Returning partner mock JSON)")
+            mock_path = os.path.join(os.path.dirname(__file__), "mock_response.json")
+            with open(mock_path, "r") as f:
+                return json.load(f)
+                
+
         # Step 1: Collect Data
         print("Agent 1: Collecting Data...")
         reels_data = fetch_reels_data(request.access_token)

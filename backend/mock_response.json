@@ -1,0 +1,346 @@
+{
+    "status": "success",
+    "data": {
+        "reels": [
+            {
+                "id": "1",
+                "caption": "How to improve your English speaking #speaking #accents",
+                "timestamp": "2026-06-16T10:00:00+0000",
+                "like_count": 220,
+                "comments_count": 15,
+                "reach": 10000,
+                "plays": 12000,
+                "saved": 45,
+                "shares": 270
+            },
+            {
+                "id": "2",
+                "caption": "How to improve your English speaking Part 2 (Shadowing Series #1) #speaking",
+                "timestamp": "2026-06-15T08:30:00+0000",
+                "like_count": 190,
+                "comments_count": 12,
+                "reach": 6000,
+                "plays": 7400,
+                "saved": 30,
+                "shares": 270
+            },
+            {
+                "id": "3",
+                "caption": "Stop translating from Urdu to English\n\nIf you want to speak English fluently, stop translating every sentence from Urdu to English inside your head. Native speakers don't translate. They think directly in English. Start with simple thoughts like 'I'm hungry' or 'I need water' and say them directly in English. This single habit can dramatically improve your fluency. Follow for more English speaking tips. #speaking #pakistani",
+                "timestamp": "2026-06-14T18:00:00+0000",
+                "like_count": 340,
+                "comments_count": 25,
+                "reach": 12000,
+                "plays": 15800,
+                "saved": 85,
+                "shares": 410
+            },
+            {
+                "id": "4",
+                "caption": "3 mistakes Pakistanis make when speaking English\n\nIf you're Pakistani and learning English, avoid these three mistakes. Number one: speaking too fast. Number two: focusing on grammar instead of communication. Number three: translating every sentence from Urdu. Fix these and you'll sound much more natural. Follow for more tips. #speaking #pakistani #accents",
+                "timestamp": "2026-06-13T12:00:00+0000",
+                "like_count": 260,
+                "comments_count": 18,
+                "reach": 8000,
+                "plays": 9600,
+                "saved": 55,
+                "shares": 320
+            },
+            {
+                "id": "5",
+                "caption": "How to improve your English accent\n\nMost people think improving your accent means changing how your voice sounds. That's wrong. An accent is mostly about pronunciation patterns. Start by learning how native speakers pronounce vowels, stress words, and connect sounds together. Master those three things and your accent will improve much faster. Follow for more. #accents #speaking",
+                "timestamp": "2026-06-12T09:00:00+0000",
+                "like_count": 410,
+                "comments_count": 35,
+                "reach": 15000,
+                "plays": 18200,
+                "saved": 110,
+                "shares": 520
+            },
+            {
+                "id": "6",
+                "caption": "American accent vs Pakistani accent\n\nListen carefully. Most Pakistanis pronounce every word separately. American speakers connect their words together. For example, 'What are you doing?' often sounds more like 'Whaddaya doing?' Learn these connections and you'll sound much more natural. Follow for daily speaking tips. #accents #pakistani",
+                "timestamp": "2026-06-11T17:30:00+0000",
+                "like_count": 290,
+                "comments_count": 20,
+                "reach": 10000,
+                "plays": 11400,
+                "saved": 75,
+                "shares": 370
+            },
+            {
+                "id": "7",
+                "caption": "Learn any accent in 30 days\n\nIf you want to learn an American, British, or Australian accent, don't start with pronunciation rules. First, choose one speaker and copy them every day for ten minutes. The fastest way to learn an accent is through imitation, not theory. Follow for more accent training tips. #accents #voiceacting",
+                "timestamp": "2026-06-10T22:00:00+0000",
+                "like_count": 210,
+                "comments_count": 14,
+                "reach": 7500,
+                "plays": 8900,
+                "saved": 50,
+                "shares": 250
+            },
+            {
+                "id": "8",
+                "caption": "The fastest way to sound fluent\n\nWant to sound fluent even if your grammar isn't perfect? Learn common phrases instead of individual words. Native speakers use chunks like 'to be honest,' 'at the end of the day,' and 'you know what I mean.' Learn phrases, not vocabulary lists. Follow for more. #speaking #voiceacting",
+                "timestamp": "2026-06-09T14:00:00+0000",
+                "like_count": 560,
+                "comments_count": 45,
+                "reach": 20000,
+                "plays": 22700,
+                "saved": 160,
+                "shares": 710
+            },
+            {
+                "id": "9",
+                "caption": "Shadowing Series Part 2\n\nYesterday we learned what shadowing is. Today let's do a practice session. Listen carefully and repeat exactly as the speaker speaks. Focus on rhythm, stress, and pronunciation. 10 seconds of shadowing demonstration. Do this for five minutes daily and your speaking will improve significantly. Follow for more. #speaking",
+                "timestamp": "2026-06-08T11:00:00+0000",
+                "like_count": 330,
+                "comments_count": 22,
+                "reach": 11000,
+                "plays": 13100,
+                "saved": 90,
+                "shares": 390
+            },
+            {
+                "id": "10",
+                "caption": "Speak English confidently in public\n\nConfidence doesn't come before speaking English. Confidence comes from speaking English. Stop waiting until you're perfect. Start speaking today, make mistakes, learn from them, and improve over time. That's exactly how fluent speakers became fluent. Follow for more English speaking tips. #publicspeaking",
+                "timestamp": "2026-06-07T16:00:00+0000",
+                "like_count": 170,
+                "comments_count": 10,
+                "reach": 5500,
+                "plays": 6800,
+                "saved": 25,
+                "shares": 190
+            }
+        ],
+        "analysis": {
+            "performance_labels": [
+                {
+                    "id": "1",
+                    "label": "AVERAGE",
+                    "plays": 12000
+                },
+                {
+                    "id": "2",
+                    "label": "AVERAGE",
+                    "plays": 7400
+                },
+                {
+                    "id": "3",
+                    "label": "TOP_PERFORMER",
+                    "plays": 15800
+                },
+                {
+                    "id": "4",
+                    "label": "AVERAGE",
+                    "plays": 9600
+                },
+                {
+                    "id": "5",
+                    "label": "TOP_PERFORMER",
+                    "plays": 18200
+                },
+                {
+                    "id": "6",
+                    "label": "AVERAGE",
+                    "plays": 11400
+                },
+                {
+                    "id": "7",
+                    "label": "UNDERPERFORMER",
+                    "plays": 8900
+                },
+                {
+                    "id": "8",
+                    "label": "TOP_PERFORMER",
+                    "plays": 22700
+                },
+                {
+                    "id": "9",
+                    "label": "AVERAGE",
+                    "plays": 13100
+                },
+                {
+                    "id": "10",
+                    "label": "UNDERPERFORMER",
+                    "plays": 6800
+                }
+            ],
+            "top_patterns": {
+                "avg_caption_length": "long",
+                "hashtag_count_range": "1-3",
+                "common_keywords": [
+                    "speaking",
+                    "accents",
+                    "english"
+                ],
+                "best_posting_time": "varies, but often afternoon or evening",
+                "tone": "educational"
+            },
+            "underperformer_diagnoses": [
+                {
+                    "id": "7",
+                    "reason": "low_engagement_bait",
+                    "improvement": "Add a question or call-to-action to the caption to encourage interaction"
+                },
+                {
+                    "id": "10",
+                    "reason": "weak_hook",
+                    "improvement": "Start the caption with a more attention-grabbing statement to draw viewers in"
+                }
+            ],
+            "detected_niche": "education",
+            "niche_keywords": [
+                "speaking",
+                "english",
+                "accents"
+            ]
+        },
+        "plan": {
+            "content_pillars": [
+                {
+                    "name": "English Accents",
+                    "description": "This pillar covers the various accents found in English language, exploring their differences and nuances.",
+                    "why_it_works": "It works because the top performer patterns show a high engagement with content related to 'accents' and 'english', indicating a strong interest in this topic.",
+                    "post_ideas": [
+                        "Uncommon English accents from around the world",
+                        "How to master a British accent in 5 steps",
+                        "Accent challenge: Can you guess the origin?"
+                    ]
+                },
+                {
+                    "name": "Speaking Tips",
+                    "description": "This pillar provides tips and advice on how to improve speaking skills, particularly in English.",
+                    "why_it_works": "It works because the top performer patterns show a high engagement with content related to 'speaking' and 'educational' tone, indicating a strong interest in learning and self-improvement.",
+                    "post_ideas": [
+                        "5 common speaking mistakes and how to fix them",
+                        "How to speak confidently in front of an audience",
+                        "Speaking habits of highly effective people"
+                    ]
+                },
+                {
+                    "name": "Language Learning",
+                    "description": "This pillar covers topics related to language learning, including strategies, resources, and motivations.",
+                    "why_it_works": "It works because the top performer patterns show a high engagement with content related to 'english' and 'educational' tone, indicating a strong interest in learning and self-improvement.",
+                    "post_ideas": [
+                        "How to learn English in 30 days",
+                        "Language learning apps: Which one is the best?",
+                        "Motivation techniques for language learners"
+                    ]
+                }
+            ],
+            "seven_day_plan": [
+                {
+                    "day": "Monday",
+                    "pillar": "English Accents",
+                    "reel_concept": "Exploring the different accents of the UK",
+                    "hook_line": "Can you guess the accent?",
+                    "caption_angle": "Share your favorite English accent and why you love it",
+                    "hashtags": [
+                        "#EnglishAccents",
+                        "#LanguageLearning",
+                        "#AccentChallenge",
+                        "#UKAccents",
+                        "#SpeakingTips"
+                    ],
+                    "best_post_time": "afternoon"
+                },
+                {
+                    "day": "Tuesday",
+                    "pillar": "Speaking Tips",
+                    "reel_concept": "Overcoming public speaking fears",
+                    "hook_line": "Fearless speaking starts here",
+                    "caption_angle": "What's your biggest public speaking fear and how do you overcome it?",
+                    "hashtags": [
+                        "#PublicSpeaking",
+                        "#SpeakingTips",
+                        "#ConfidenceBoost",
+                        "#FearlessSpeaking",
+                        "#EnglishSpeaking"
+                    ],
+                    "best_post_time": "evening"
+                },
+                {
+                    "day": "Wednesday",
+                    "pillar": "Language Learning",
+                    "reel_concept": "Language learning hacks for beginners",
+                    "hook_line": "Learn English fast!",
+                    "caption_angle": "What's your favorite language learning hack and why does it work for you?",
+                    "hashtags": [
+                        "#LanguageLearning",
+                        "#EnglishLearning",
+                        "#LearningHacks",
+                        "#BeginnerTips",
+                        "#LanguageTips"
+                    ],
+                    "best_post_time": "afternoon"
+                },
+                {
+                    "day": "Thursday",
+                    "pillar": "English Accents",
+                    "reel_concept": "Accent challenge: Can you guess the origin?",
+                    "hook_line": "Guess the accent now!",
+                    "caption_angle": "Share your favorite accent challenge and why you love it",
+                    "hashtags": [
+                        "#AccentChallenge",
+                        "#EnglishAccents",
+                        "#LanguageLearning",
+                        "#SpeakingTips",
+                        "#GuessTheAccent"
+                    ],
+                    "best_post_time": "evening"
+                },
+                {
+                    "day": "Friday",
+                    "pillar": "Speaking Tips",
+                    "reel_concept": "How to speak confidently in front of an audience",
+                    "hook_line": "Speak with confidence",
+                    "caption_angle": "What's your biggest speaking fear and how do you overcome it?",
+                    "hashtags": [
+                        "#SpeakingTips",
+                        "#ConfidenceBoost",
+                        "#PublicSpeaking",
+                        "#EnglishSpeaking",
+                        "#FearlessSpeaking"
+                    ],
+                    "best_post_time": "afternoon"
+                },
+                {
+                    "day": "Saturday",
+                    "pillar": "Language Learning",
+                    "reel_concept": "Language learning apps: Which one is the best?",
+                    "hook_line": "Learn English now!",
+                    "caption_angle": "What's your favorite language learning app and why do you love it?",
+                    "hashtags": [
+                        "#LanguageLearning",
+                        "#EnglishLearning",
+                        "#LearningApps",
+                        "#LanguageTips",
+                        "#AppReview"
+                    ],
+                    "best_post_time": "evening"
+                },
+                {
+                    "day": "Sunday",
+                    "pillar": "English Accents",
+                    "reel_concept": "Uncommon English accents from around the world",
+                    "hook_line": "Discover new accents",
+                    "caption_angle": "Share your favorite uncommon English accent and why you love it",
+                    "hashtags": [
+                        "#EnglishAccents",
+                        "#LanguageLearning",
+                        "#AccentLove",
+                        "#SpeakingTips",
+                        "#UncommonAccents"
+                    ],
+                    "best_post_time": "afternoon"
+                }
+            ],
+            "quick_wins": [
+                "Add a question or call-to-action to the caption to encourage interaction",
+                "Start the caption with a more attention-grabbing statement to draw viewers in",
+                "Use a mix of niche and broad hashtags to increase discoverability"
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+@import "tailwindcss";
+@config "../../tailwind.config.js";
+
+@layer utilities {
+  .bg-mesh {
+    background: #0f0c29;
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
+  }
+
+  .btn-glow {
+    box-shadow: 0 0 15px rgba(236, 72, 153, 0.5);
+    transition: all 0.3s ease;
+  }
+  
+  .btn-glow:hover {
+    box-shadow: 0 0 25px rgba(236, 72, 153, 0.8);
+  }
+
+  .hover-spin:hover {
+    animation: spin 1s linear infinite;
+  }
+}
